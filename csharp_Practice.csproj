@@ -6,7 +6,7 @@
 	  <RootNamespace>csharp_Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>csharp_Practice.shauryaround.square</StartupObject>
+	  <StartupObject>csharp_Practice.shauryaround.splitnumber</StartupObject>
   </PropertyGroup>
 	
 
