@@ -6,7 +6,7 @@
 	  <RootNamespace>csharp_Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>csharp_Practice.Recursion.recursion3</StartupObject>
+	  <StartupObject>csharp_Practice.shauryaround.square</StartupObject>
   </PropertyGroup>
 	
 
